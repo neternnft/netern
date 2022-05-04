@@ -25,3 +25,10 @@
     "typescript": "4.5.4"
   }
 }
+
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
+

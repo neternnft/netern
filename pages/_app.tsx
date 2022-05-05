@@ -4,12 +4,12 @@ import Navbar from "../components/Navbar"
 import Footer from "../components/Footer"
 import { NextSeo } from "next-seo"
 
-function MyApp({ Component, pageProps }) {
+function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <NextSeo
-        title="Netern"
-        description="Netern guardian NFT Project."
+        title="Octo Space | NFT Project"
+        description="Description of Octo Space NFT Project."
         // canonical="https://www.canonical.ie/"
         // twitter={{
         //   handle: "@handle",

@@ -13,7 +13,7 @@
 */
 
 // ---GENERAL---
-export const logo = "/images/logo.svg"
+export const logo = "/images/logo.png"
 export const logoAlt = "nft project logo"
 export const mobileMenuHeading = "Useful Links:"
 
@@ -32,7 +32,7 @@ export const pages = [
 ]
 
 // ---FOOTER---
-export const permissions = "2022 netern"
+export const permissions = "2022 Netern"
 
 // ---HERO TEXT---
 export const heading1 = "Netern"
@@ -42,11 +42,11 @@ export const description = `
   with different attributes and styles!
 `
 export const btnText1 = "Join Discord"
-export const btnText2 = "Shop on Metamirror"
+export const btnText2 = "Shop on MetaMirror"
 
 export const topCard = {
   name: "#103",
-  price: "50000 $ROSE",
+  price: "5000 $ROSE",
   btnText: "Buy Now",
   profile:
     "https://lh3.googleusercontent.com/uRNiQu5_VpjhHoYy_QTvqOpIWs5QvSJ36hCrsGV4jP2YDJqIwfBVtR_XALDmmHHyFks6FC919AzvXv0J1AT4WlSEGM6VIODNt07snw=s130",
@@ -59,7 +59,7 @@ export const topCard = {
 
 export const backCard = {
   name: "#102",
-  price: "50000 $ROSE",
+  price: "5000 $ROSE",
   btnText: "Buy Now",
   profile:
     "https://lh3.googleusercontent.com/uRNiQu5_VpjhHoYy_QTvqOpIWs5QvSJ36hCrsGV4jP2YDJqIwfBVtR_XALDmmHHyFks6FC919AzvXv0J1AT4WlSEGM6VIODNt07snw=s130",
@@ -74,27 +74,27 @@ export const backCard = {
 export const galleryHeading = "Gallery"
 export const images = [
   {
-    url: "https://lh3.googleusercontent.com/x8bnseXn89ubTHYxH_tqCni8pukbQGdsAdV-k5sudEFvukpeBxtzMrOSUR00x6lO_Bq5mlgY0mNHvwXw8iSn6ZUBEOCKvUMTzjsXng=w600",
+    url: "https://lh3.googleusercontent.com/kmjIhSulTiy42-JY6HVCeQvDwY8Q0ifNi3zt4i_9gL03mmwsHNituGpe5QA9bIm_vxHeuM8dlBgcPXTT=w221-h220-rw",
     alt: "nft1",
   },
   {
-    url: "https://lh3.googleusercontent.com/SjjTt1xeqjYXIPXOGDE5JJuMBFB7EXnwQTxXE_zQE6VnsrJBOtC0kVF254LUHV6RFIH9gyLw0huL3BFQ10N8VWolN_knN0E3qU3z3Q=w600",
+    url: "https://lh3.googleusercontent.com/kmjIhSulTiy42-JY6HVCeQvDwY8Q0ifNi3zt4i_9gL03mmwsHNituGpe5QA9bIm_vxHeuM8dlBgcPXTT=w221-h220-rw",
     alt: "nft2",
   },
   {
-    url: "https://lh3.googleusercontent.com/yHkmkqhp_8pRtrp0UnvEJqjMNn-9a9d0xdnuOY-eprnqNG9m2BVJfvd-6tTUWb6_MdqfUFP5FFy4OGqTq9NTHpYybemg5801LKH9eA=w600",
+    url: "https://lh3.googleusercontent.com/kmjIhSulTiy42-JY6HVCeQvDwY8Q0ifNi3zt4i_9gL03mmwsHNituGpe5QA9bIm_vxHeuM8dlBgcPXTT=w221-h220-rw",
     alt: "nft3",
   },
   {
-    url: "https://lh3.googleusercontent.com/aviADDqmYN5X979x0bO1Tg7lLLgpIRwp5B-M2GRmChTdm8N5V_vwXX0kS8bTeuATkHlPDsHyeVAgiAhRhHCwzThqTCvn_80r9VNq9A=w600",
+    url: "https://lh3.googleusercontent.com/kmjIhSulTiy42-JY6HVCeQvDwY8Q0ifNi3zt4i_9gL03mmwsHNituGpe5QA9bIm_vxHeuM8dlBgcPXTT=w221-h220-rw",
     alt: "nft4",
   },
   {
-    url: "https://lh3.googleusercontent.com/sCYqk7lTMznAOD8Mjlzce_YOw8QR23ODIspxz2X6_gSULHb0QbDapw2brHd2Gf-O9voLXUgSwGWQ7BAsVtsL4tgw9w90ybQBoeY8SQ=w600",
+    url: "https://lh3.googleusercontent.com/kmjIhSulTiy42-JY6HVCeQvDwY8Q0ifNi3zt4i_9gL03mmwsHNituGpe5QA9bIm_vxHeuM8dlBgcPXTT=w221-h220-rw",
     alt: "nf5",
   },
   {
-    url: "https://lh3.googleusercontent.com/6IYRsI8QSUQ0dhn11OVmyA0xMZlQDVLM6ORMZL-DVNTquWkSKuw2Xombc3gUJ-bvnQ0r7WJ3TWky-LWsRXO1k8lnOIy1ttt4Sx_r5Y8=w600",
+    url: "https://lh3.googleusercontent.com/kmjIhSulTiy42-JY6HVCeQvDwY8Q0ifNi3zt4i_9gL03mmwsHNituGpe5QA9bIm_vxHeuM8dlBgcPXTT=w221-h220-rw",
     alt: "nft6",
   },
 ]
@@ -172,19 +172,19 @@ export const team = [
   {
     url: "https://lh3.googleusercontent.com/kmjIhSulTiy42-JY6HVCeQvDwY8Q0ifNi3zt4i_9gL03mmwsHNituGpe5QA9bIm_vxHeuM8dlBgcPXTT=w221-h220-rw",
     alt: "user2",
-    username: "@username",
+    username: "@Nathaniel | Chillin’ in Oasis#7505",
     userLink: "https://twitter.com/elonmusk",
   },
   {
     url: "https://lh3.googleusercontent.com/evzwlFnaG6h_ASUzjP17puKn9JGTc-8fNsb-Xdd0p_lyupusl8-ONY4fbT_TumjXP7fiTbC74RyBX0y4=w221-h220-rw",
     alt: "user3",
-    username: "@username",
+    username: "@KayaMain#5671",
     userLink: "https://twitter.com/elonmusk",
   },
   {
-    url: "https://lh3.googleusercontent.com/aviADDqmYN5X979x0bO1Tg7lLLgpIRwp5B-M2GRmChTdm8N5V_vwXX0kS8bTeuATkHlPDsHyeVAgiAhRhHCwzThqTCvn_80r9VNq9A=w600",
+    url: "https://lh3.googleusercontent.com/DpdCB9hFrLvIcyALvD4z603xIxQ3AKgG6Wv9AG_ET43x1xYcNupIYs-4wgzlshBgYGFKCmDf45PAqPs-=w221-h220-rw",
     alt: "user4",
-    username: "@username",
+    username: "@Megaman#3527",
     userLink: "https://twitter.com/elonmusk",
   },
 ]

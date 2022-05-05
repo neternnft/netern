@@ -130,7 +130,7 @@ export const roadmapHeading = "Roadmap"
 export const roadmapSteps = [
   {
     position: "1",
-    title: "20% ETH Donation",
+    title: "30% $ROSE Donation",
     description: `
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
@@ -140,7 +140,7 @@ export const roadmapSteps = [
   },
   {
     position: "2",
-    title: "Sending ETH to other projects",
+    title: "Perspiciatis unde omnis istes",
     description: `
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
@@ -193,24 +193,24 @@ export const team = [
 export const faqHeading = "Frequently Asked Questions"
 export const faq = [
   {
-    question: "What is Octo Space?",
-    answer: `Octo Space is a collection of 1000+ amazing figures with
-             different attributes and styles hosted on Ethereum Blockchain. 
-             You can buy these figures on OpenSea.
+    question: "What is Netern?",
+    answer: `Netern is a collection of 100+ amazing characters with
+             different attributes and styles hosted on Emerald Blockchain. 
+             You can buy these figures on MetaMirror.
     `,
   },
   {
     question: "How much do they Cost?",
-    answer: `Octo Space is a collection of 1000+ amazing figures with
-             different attributes and styles hosted on Ethereum Blockchain. 
-             You can buy these figures on OpenSea.
+    answer: `Netern is a collection of 100+ amazing figures with
+             different attributes and styles hosted on Emerald Blockchain. 
+             You can buy these figures on MetaMirror.
     `,
   },
   {
     question: "Can I buy an NFT from Opensea?",
-    answer: `Octo Space is a collection of 1000+ amazing figures with
-             different attributes and styles hosted on Ethereum Blockchain. 
-             You can buy these figures on OpenSea.
+    answer: `Netern is a collection of 100+ amazing figures with
+             different attributes and styles hosted on Emerald Blockchain. 
+             You can buy these figures on MetaMirror.
     `,
   },
 ]

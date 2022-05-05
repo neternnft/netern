@@ -13,7 +13,7 @@
 */
 
 // ---GENERAL---
-export const logo = "/images/logo.png"
+export const logo = "/images/logoN.png"
 export const logoAlt = "nft project logo"
 export const mobileMenuHeading = "Useful Links:"
 

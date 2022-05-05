@@ -51,7 +51,7 @@ export const topCard = {
   profile:
     "https://lh3.googleusercontent.com/uRNiQu5_VpjhHoYy_QTvqOpIWs5QvSJ36hCrsGV4jP2YDJqIwfBVtR_XALDmmHHyFks6FC919AzvXv0J1AT4WlSEGM6VIODNt07snw=s130",
   image:
-    "https://photos.app.goo.gl/WZu26a3V9R3YYkaZ6",
+    "https://lh3.googleusercontent.com/pw/AM-JKLW8fy0VuN3j0aB84c85aXtNm8Oantg78SUSgQedjLPW1UToF_GGkFX34_mf67rbOnSxRdgSubY3VPdMkGmmFS8LZZw9tIpXsj7hMwWK03wn5vHJaTMMpT2opjTHpZpdwUTFHsT702cNYpVVK_q3-DQ=w1012-h1007-no?authuser=1",
   btnUrl: "https://opensea.io/",
   alt: "Top Card",
   profileAlt: "My Profile 1",

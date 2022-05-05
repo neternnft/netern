@@ -38,8 +38,8 @@ export const permissions = "2022 Netern"
 export const heading1 = "Netern"
 export const heading2 = "NFT Project"
 export const description = `
-  Meet a collection of 100+ amazing figures
-  with different attributes and styles!
+  Meet a collection of 100+ amazing 
+  figures with different attributes and styles!
 `
 export const btnText1 = "Join Discord"
 export const btnText2 = "Shop on Opensea"

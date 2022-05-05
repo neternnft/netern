@@ -17,9 +17,9 @@ export const logo = "/images/logoN.png"
 export const logoAlt = "nft project logo"
 export const mobileMenuHeading = "Useful Links:"
 
-export const discordUrl = "#"
+export const discordUrl = "https://discord.gg/XDJZcHAVsm"
 export const instagramUrl = "#"
-export const twitterUrl = "#"
+export const twitterUrl = "https://twitter.com/Neternft"
 export const openSeaUrl = "#"
 
 // ---NAVBAR---

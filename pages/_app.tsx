@@ -4,7 +4,7 @@ import Navbar from "../components/Navbar"
 import Footer from "../components/Footer"
 import { NextSeo } from "next-seo"
 
-function MyApp({ Component, pageProps }) {
+function MyApp({ Component, pageProps }: AppProps): JSX.Element {
   return (
     <>
       <NextSeo

@@ -32,20 +32,20 @@ export const pages = [
 ]
 
 // ---FOOTER---
-export const permissions = "2022 Octo Space"
+export const permissions = "2022 Netern"
 
 // ---HERO TEXT---
-export const heading1 = "Octo Space"
+export const heading1 = "Netern"
 export const heading2 = "NFT Project"
 export const description = `
-  Meet a collection of 1000+ amazing figures
+  Meet a collection of 100+ amazing figures
   with different attributes and styles!
 `
 export const btnText1 = "Join Discord"
 export const btnText2 = "Shop on Opensea"
 
 export const topCard = {
-  name: "#8258",
+  name: "#103",
   price: "1.48 ETH",
   btnText: "Buy Now",
   profile:
@@ -58,7 +58,7 @@ export const topCard = {
 }
 
 export const backCard = {
-  name: "#8258",
+  name: "#102",
   price: "1.48 ETH",
   btnText: "Buy Now",
   profile:
@@ -103,14 +103,14 @@ export const images = [
 export const features = [
   {
     reversed: false,
-    title: "1000+ FIgures Collection",
+    title: "100+ FIgures Collection",
     description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
       minim veniam, quis nostrud exercitation ullamco laboris nisi ut
       aliquip ex ea commodo consequat.`,
     image:
       "https://ouch-cdn2.icons8.com/CCMXcYfslPpvGqO0olPsDxuYq5zjVyHTbhpIbcfN4bQ/rs:fit:735:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTQ5/LzM3YmUzODE5LTM2/OTEtNDdjNy05YTMz/LWVjMTYwMjA0YTU1/ZS5wbmc.png",
-    imageAlt: "1000+ FIgures Collection Image",
+    imageAlt: "100+ FIgures Collection Image",
   },
   {
     reversed: true,
@@ -205,22 +205,22 @@ export const team = [
 export const faqHeading = "Frequently Asked Questions"
 export const faq = [
   {
-    question: "What is Octo Space?",
-    answer: `Octo Space is a collection of 1000+ amazing figures with
+    question: "What is Netern?",
+    answer: `Netern is a collection of 100+ amazing figures with
              different attributes and styles hosted on Ethereum Blockchain. 
              You can buy these figures on OpenSea.
     `,
   },
   {
     question: "How much do they Cost?",
-    answer: `Octo Space is a collection of 1000+ amazing figures with
+    answer: `Netern is a collection of 100+ amazing figures with
              different attributes and styles hosted on Ethereum Blockchain. 
              You can buy these figures on OpenSea.
     `,
   },
   {
     question: "Can I buy an NFT from Opensea?",
-    answer: `Octo Space is a collection of 1000+ amazing figures with
+    answer: `Netern is a collection of 100+ amazing figures with
              different attributes and styles hosted on Ethereum Blockchain. 
              You can buy these figures on OpenSea.
     `,

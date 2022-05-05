@@ -192,21 +192,21 @@ export const faq = [
   {
     question: "What is Netern?",
     answer: `Netern is a collection of 100+ amazing figures with
-             different attributes and styles hosted on Ethereum Blockchain. 
+             different attributes and styles hosted on Emerald Blockchain. 
              You can buy these figures on OpenSea.
     `,
   },
   {
     question: "How much do they Cost?",
     answer: `Netern is a collection of 100+ amazing figures with
-             different attributes and styles hosted on Ethereum Blockchain. 
+             different attributes and styles hosted on Emerald Blockchain. 
              You can buy these figures on OpenSea.
     `,
   },
   {
     question: "Can I buy an NFT from Opensea?",
     answer: `Netern is a collection of 100+ amazing figures with
-             different attributes and styles hosted on Ethereum Blockchain. 
+             different attributes and styles hosted on Emerald Blockchain. 
              You can buy these figures on OpenSea.
     `,
   },

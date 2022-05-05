@@ -132,10 +132,10 @@ export const roadmapSteps = [
     position: "1",
     title: "30% $ROSE Donation",
     description: `
-      ➡️ Participation in giveaways and events
-      ➡️ Growing Netern Clan community and opportunity to have a say in the development of the project
-      ➡️ Distribution of roles and rewards for loyalty
-      ➡️ Creation of website
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
+      veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
     `,
   },
   {

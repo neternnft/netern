@@ -20,7 +20,7 @@ export const mobileMenuHeading = "Useful Links:"
 export const discordUrl = "https://discord.gg/XDJZcHAVsm"
 export const instagramUrl = "#"
 export const twitterUrl = "https://twitter.com/Neternft"
-export const openSeaUrl = "#"
+export const openSeaUrl = "https://auth3.network/metamirror/gallery/airose/"
 
 // ---NAVBAR---
 export const pages = [
@@ -52,7 +52,7 @@ export const topCard = {
     "https://lh3.googleusercontent.com/uRNiQu5_VpjhHoYy_QTvqOpIWs5QvSJ36hCrsGV4jP2YDJqIwfBVtR_XALDmmHHyFks6FC919AzvXv0J1AT4WlSEGM6VIODNt07snw=s130",
   image:
     "https://lh3.googleusercontent.com/pw/AM-JKLW8fy0VuN3j0aB84c85aXtNm8Oantg78SUSgQedjLPW1UToF_GGkFX34_mf67rbOnSxRdgSubY3VPdMkGmmFS8LZZw9tIpXsj7hMwWK03wn5vHJaTMMpT2opjTHpZpdwUTFHsT702cNYpVVK_q3-DQ=w1012-h1007-no?authuser=1",
-  btnUrl: "https://opensea.io/",
+  btnUrl: "https://auth3.network/metamirror/gallery/airose/",
   alt: "Top Card",
   profileAlt: "My Profile 1",
 }
@@ -65,7 +65,7 @@ export const backCard = {
     "https://lh3.googleusercontent.com/uRNiQu5_VpjhHoYy_QTvqOpIWs5QvSJ36hCrsGV4jP2YDJqIwfBVtR_XALDmmHHyFks6FC919AzvXv0J1AT4WlSEGM6VIODNt07snw=s130",
   image:
     "https://lh3.googleusercontent.com/pw/AM-JKLW8fy0VuN3j0aB84c85aXtNm8Oantg78SUSgQedjLPW1UToF_GGkFX34_mf67rbOnSxRdgSubY3VPdMkGmmFS8LZZw9tIpXsj7hMwWK03wn5vHJaTMMpT2opjTHpZpdwUTFHsT702cNYpVVK_q3-DQ=w1012-h1007-no?authuser=1",
-  btnUrl: "https://opensea.io/",
+  btnUrl: "https://auth3.network/metamirror/gallery/airose/",
   alt: "Back Card",
   profileAlt: "My Profile 2",
 }
@@ -193,21 +193,21 @@ export const faq = [
     question: "What is Netern?",
     answer: `Netern is a collection of 100+ amazing figures with
              different attributes and styles hosted on Emerald Blockchain. 
-             You can buy these figures on OpenSea.
+             You can buy these figures on MetaMirror.
     `,
   },
   {
     question: "How much do they Cost?",
     answer: `Netern is a collection of 100+ amazing figures with
              different attributes and styles hosted on Emerald Blockchain. 
-             You can buy these figures on OpenSea.
+             You can buy these figures on MetaMirror.
     `,
   },
   {
-    question: "Can I buy an NFT from Opensea?",
+    question: "Can I buy an NFT from MetaMirror?",
     answer: `Netern is a collection of 100+ amazing figures with
              different attributes and styles hosted on Emerald Blockchain. 
-             You can buy these figures on OpenSea.
+             You can buy these figures on MetaMirror.
     `,
   },
 ]

@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 module.exports = {
-  distDir: 'build',
+  reactStrictMode: true,
 
   // Add or Change domains here to add allowed websites for images
   // ↓

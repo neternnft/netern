@@ -42,11 +42,11 @@ export const description = `
   figures with different attributes and styles!
 `
 export const btnText1 = "Join Discord"
-export const btnText2 = "Shop on Opensea"
+export const btnText2 = "Shop on MetaMirror"
 
 export const topCard = {
   name: "#103",
-  price: "1.48 ETH",
+  price: "400 $ROSE",
   btnText: "Buy Now",
   profile:
     "https://lh3.googleusercontent.com/uRNiQu5_VpjhHoYy_QTvqOpIWs5QvSJ36hCrsGV4jP2YDJqIwfBVtR_XALDmmHHyFks6FC919AzvXv0J1AT4WlSEGM6VIODNt07snw=s130",
@@ -59,7 +59,7 @@ export const topCard = {
 
 export const backCard = {
   name: "#102",
-  price: "1.48 ETH",
+  price: "400 $ROSE",
   btnText: "Buy Now",
   profile:
     "https://lh3.googleusercontent.com/uRNiQu5_VpjhHoYy_QTvqOpIWs5QvSJ36hCrsGV4jP2YDJqIwfBVtR_XALDmmHHyFks6FC919AzvXv0J1AT4WlSEGM6VIODNt07snw=s130",
@@ -130,32 +130,29 @@ export const roadmapHeading = "Roadmap"
 export const roadmapSteps = [
   {
     position: "1",
-    title: "20% ETH Donation",
+    title: "Giveaways and events",
     description: `
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-      veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
+      Participation in giveaways and events
+      Growing Netern community and opportunity to have a say in the development of the project
+      Distribution of roles and rewards for loyalty
     `,
   },
   {
     position: "2",
-    title: "Sending ETH to other projects",
+    title: " Creation of website",
     description: `
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-      veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
+      Mint : 100 Netern Guardians NFTs are going to be minted on the Oasis blockchain.
+      You have full intellectual property of your Netern Guardian NFTs, so you can use it as a PFP, or for any other purpose.
     `,
   },
   {
     position: "3",
     title: "All NFTs Sold",
     description: `
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore
-      veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit
+      50% of all income goes to community and project development.
+      Raffle for Netern NFT owners limited edition Netern NFTs (5-10).
+      3 NFTs  2 for MODs (elder), 1 NFT for Co leader. The one that has MOD nft gets 1% from all income and MOD role in discord.
+      If you sell your MOD NFT you lose your 1% and MOD role, for Co leader nft same.
     `,
   },
 ]

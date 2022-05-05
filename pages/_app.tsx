@@ -8,8 +8,8 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <NextSeo
-        title="Octo Space | NFT Project"
-        description="Description of Octo Space NFT Project."
+        title="Netern"
+        description="Description of Netern guardian NFT Project."
         // canonical="https://www.canonical.ie/"
         // twitter={{
         //   handle: "@handle",

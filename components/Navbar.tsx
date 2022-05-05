@@ -73,7 +73,7 @@ const MobileMenu = () => (
     <Link href={openSeaUrl} passHref>
       <a>
         <div className="w-fit rounded-2xl bg-gradient-to-r from-indigo-500 via-teal-600 to-indigo-500 bg-size-200 bg-pos-0 px-4 py-2 font-semibold shadow-lg shadow-white/10 transition-all duration-300 hover:bg-pos-100">
-          View on OpenSea
+          View on Metamirror
         </div>
       </a>
     </Link>
@@ -141,7 +141,7 @@ const Navbar = () => {
             <Link href={openSeaUrl} passHref>
               <a>
                 <div className="rounded-2xl bg-gradient-to-r from-indigo-500 via-teal-600 to-indigo-500 bg-size-200 bg-pos-0 px-4 py-2 font-semibold shadow-lg shadow-white/10 transition-all duration-300 hover:bg-pos-100">
-                  View on OpenSea
+                  View on Metamirror
                 </div>
               </a>
             </Link>

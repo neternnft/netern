@@ -17,9 +17,9 @@ export const logo = "/images/logo.svg"
 export const logoAlt = "nft project logo"
 export const mobileMenuHeading = "Useful Links:"
 
-export const discordUrl = "#"
+export const discordUrl = "https://discord.gg/XDJZcHAVsm"
 export const instagramUrl = "#"
-export const twitterUrl = "#"
+export const twitterUrl = "https://twitter.com/NeternOne"
 export const openSeaUrl = "#"
 
 // ---NAVBAR---
@@ -32,39 +32,39 @@ export const pages = [
 ]
 
 // ---FOOTER---
-export const permissions = "2022 Octo Space"
+export const permissions = "2022 netern"
 
 // ---HERO TEXT---
-export const heading1 = "Octo Space"
+export const heading1 = "Netern"
 export const heading2 = "NFT Project"
 export const description = `
-  Meet a collection of 1000+ amazing figures
+  Meet a collection of 100+ amazing character
   with different attributes and styles!
 `
 export const btnText1 = "Join Discord"
-export const btnText2 = "Shop on Opensea"
+export const btnText2 = "Shop on Metamirror"
 
 export const topCard = {
-  name: "#8258",
-  price: "1.48 ETH",
+  name: "#103",
+  price: "50000 $ROSE",
   btnText: "Buy Now",
   profile:
     "https://lh3.googleusercontent.com/uRNiQu5_VpjhHoYy_QTvqOpIWs5QvSJ36hCrsGV4jP2YDJqIwfBVtR_XALDmmHHyFks6FC919AzvXv0J1AT4WlSEGM6VIODNt07snw=s130",
   image:
-    "https://lh3.googleusercontent.com/10TjqBrdogu4jr8VIR7xEHDRujZNfgfohgK05EQZ-fAz-B3KHAX-fXK2XdPwOV9198d9YBeOI7MyK06RJXtZHPqlJTyNnWQzh_m7fw=w600",
+    "https://lh3.googleusercontent.com/kmjIhSulTiy42-JY6HVCeQvDwY8Q0ifNi3zt4i_9gL03mmwsHNituGpe5QA9bIm_vxHeuM8dlBgcPXTT=w221-h220-rw",
   btnUrl: "https://opensea.io/",
   alt: "Top Card",
   profileAlt: "My Profile 1",
 }
 
 export const backCard = {
-  name: "#8258",
-  price: "1.48 ETH",
+  name: "#102",
+  price: "50000 $ROSE",
   btnText: "Buy Now",
   profile:
     "https://lh3.googleusercontent.com/uRNiQu5_VpjhHoYy_QTvqOpIWs5QvSJ36hCrsGV4jP2YDJqIwfBVtR_XALDmmHHyFks6FC919AzvXv0J1AT4WlSEGM6VIODNt07snw=s130",
   image:
-    "https://lh3.googleusercontent.com/jfiHJIkvee0QbBbLShykdVSPJ_fNQGsHeUcBgwem4OXxb2MEA0lkqDzZM8BIWVI5E6836mtYFZ13_PhWdkiIuUvGitu5JGDABdzDjQ=w600",
+    "https://lh3.googleusercontent.com/evzwlFnaG6h_ASUzjP17puKn9JGTc-8fNsb-Xdd0p_lyupusl8-ONY4fbT_TumjXP7fiTbC74RyBX0y4=w221-h220-rw",
   btnUrl: "https://opensea.io/",
   alt: "Back Card",
   profileAlt: "My Profile 2",
@@ -103,7 +103,7 @@ export const images = [
 export const features = [
   {
     reversed: false,
-    title: "1000+ FIgures Collection",
+    title: "100+ FIgures Collection",
     description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
       minim veniam, quis nostrud exercitation ullamco laboris nisi ut
@@ -164,19 +164,19 @@ export const roadmapSteps = [
 export const teamHeading = "Team"
 export const team = [
   {
-    url: "https://lh3.googleusercontent.com/x8bnseXn89ubTHYxH_tqCni8pukbQGdsAdV-k5sudEFvukpeBxtzMrOSUR00x6lO_Bq5mlgY0mNHvwXw8iSn6ZUBEOCKvUMTzjsXng=w600",
+    url: "https://lh3.googleusercontent.com/2758-A5gXsEKIs8k2UuuZhk4rZWJ4XSSLfJEPPSnPlCT5jpKwSleCzOTKRNDQcR-Bm58Wg8dMs7Qc1KyRw=s220-rw",
     alt: "user1",
-    username: "@username",
-    userLink: "https://twitter.com/elonmusk",
+    username: "@netern#0787",
+    userLink: "https://discord.gg/XDJZcHAVsm",
   },
   {
-    url: "https://lh3.googleusercontent.com/SjjTt1xeqjYXIPXOGDE5JJuMBFB7EXnwQTxXE_zQE6VnsrJBOtC0kVF254LUHV6RFIH9gyLw0huL3BFQ10N8VWolN_knN0E3qU3z3Q=w600",
+    url: "https://lh3.googleusercontent.com/kmjIhSulTiy42-JY6HVCeQvDwY8Q0ifNi3zt4i_9gL03mmwsHNituGpe5QA9bIm_vxHeuM8dlBgcPXTT=w221-h220-rw",
     alt: "user2",
     username: "@username",
     userLink: "https://twitter.com/elonmusk",
   },
   {
-    url: "https://lh3.googleusercontent.com/yHkmkqhp_8pRtrp0UnvEJqjMNn-9a9d0xdnuOY-eprnqNG9m2BVJfvd-6tTUWb6_MdqfUFP5FFy4OGqTq9NTHpYybemg5801LKH9eA=w600",
+    url: "https://lh3.googleusercontent.com/evzwlFnaG6h_ASUzjP17puKn9JGTc-8fNsb-Xdd0p_lyupusl8-ONY4fbT_TumjXP7fiTbC74RyBX0y4=w221-h220-rw",
     alt: "user3",
     username: "@username",
     userLink: "https://twitter.com/elonmusk",
@@ -184,18 +184,6 @@ export const team = [
   {
     url: "https://lh3.googleusercontent.com/aviADDqmYN5X979x0bO1Tg7lLLgpIRwp5B-M2GRmChTdm8N5V_vwXX0kS8bTeuATkHlPDsHyeVAgiAhRhHCwzThqTCvn_80r9VNq9A=w600",
     alt: "user4",
-    username: "@username",
-    userLink: "https://twitter.com/elonmusk",
-  },
-  {
-    url: "https://lh3.googleusercontent.com/sCYqk7lTMznAOD8Mjlzce_YOw8QR23ODIspxz2X6_gSULHb0QbDapw2brHd2Gf-O9voLXUgSwGWQ7BAsVtsL4tgw9w90ybQBoeY8SQ=w600",
-    alt: "user5",
-    username: "@username",
-    userLink: "https://twitter.com/elonmusk",
-  },
-  {
-    url: "https://lh3.googleusercontent.com/6IYRsI8QSUQ0dhn11OVmyA0xMZlQDVLM6ORMZL-DVNTquWkSKuw2Xombc3gUJ-bvnQ0r7WJ3TWky-LWsRXO1k8lnOIy1ttt4Sx_r5Y8=w600",
-    alt: "user6",
     username: "@username",
     userLink: "https://twitter.com/elonmusk",
   },

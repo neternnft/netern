@@ -49,7 +49,7 @@ export const topCard = {
   price: "1.48 ETH",
   btnText: "Buy Now",
   profile:
-    "https://lh3.googleusercontent.com/uRNiQu5_VpjhHoYy_QTvqOpIWs5QvSJ36hCrsGV4jP2YDJqIwfBVtR_XALDmmHHyFks6FC919AzvXv0J1AT4WlSEGM6VIODNt07snw=s130",
+    "https://lh3.googleusercontent.com/rCydrqmRJq2ewuz705RCNOXq6F2DZOr77_X0WFvExIO-WUu_4ok-3o8Xc2WDmBzU5lgVb79i8nrY-aix=w221-h220-rw",
   image:
     "https://lh3.googleusercontent.com/10TjqBrdogu4jr8VIR7xEHDRujZNfgfohgK05EQZ-fAz-B3KHAX-fXK2XdPwOV9198d9YBeOI7MyK06RJXtZHPqlJTyNnWQzh_m7fw=w600",
   btnUrl: "https://opensea.io/",

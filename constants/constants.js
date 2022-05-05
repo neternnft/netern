@@ -172,7 +172,7 @@ export const team = [
   {
     url: "https://lh3.googleusercontent.com/kmjIhSulTiy42-JY6HVCeQvDwY8Q0ifNi3zt4i_9gL03mmwsHNituGpe5QA9bIm_vxHeuM8dlBgcPXTT=w221-h220-rw",
     alt: "user2",
-    username: "@Nathaniel | Chillin’ in Oasis#7505",
+    username: "@Oasis#7505",
     userLink: "https://twitter.com/elonmusk",
   },
   {

@@ -52,7 +52,7 @@ export const topCard = {
     "https://lh3.googleusercontent.com/eLb7t8XfGapgsOi3lYh3avqVP4DQiOglT7YVhnaPK1ZH5mECN64oe6iX-yT8LELFDKzFfRDGJXcpaKiX=s130-rw",
   image:
     "https://lh3.googleusercontent.com/pw/AM-JKLW8fy0VuN3j0aB84c85aXtNm8Oantg78SUSgQedjLPW1UToF_GGkFX34_mf67rbOnSxRdgSubY3VPdMkGmmFS8LZZw9tIpXsj7hMwWK03wn5vHJaTMMpT2opjTHpZpdwUTFHsT702cNYpVVK_q3-DQ=w1012-h1007-no?authuser=1",
-  btnUrl: "https://auth3.network/metamirror/gallery/airose/",
+  btnUrl: "https://discord.gg/XDJZcHAVsm",
   alt: "Top Card",
   profileAlt: "My Profile 1",
 }
@@ -65,7 +65,7 @@ export const backCard = {
     "https://lh3.googleusercontent.com/eLb7t8XfGapgsOi3lYh3avqVP4DQiOglT7YVhnaPK1ZH5mECN64oe6iX-yT8LELFDKzFfRDGJXcpaKiX=s130-rw",
   image:
     "https://lh3.googleusercontent.com/pw/AM-JKLXS4aKzKibajWvd8t3THq5NFRb5kSu-UKzwVU9PHih_9kEeck5ou-muK3G0HaZHOGMfdTHIQXn3upMp7dcZzkqq5D2PCbrjGMMt4YUi1b-X4mrRMvddOfccb_GnLtu7wMNLMYQ84KnfijIeWj6KJRc=w1012-h1007-no?authuser=1",
-  btnUrl: "https://auth3.network/metamirror/gallery/airose/",
+  btnUrl: "https://discord.gg/XDJZcHAVsm",
   alt: "Back Card",
   profileAlt: "My Profile 2",
 }

@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     <>
       <NextSeo
         title="Netern | NFT Project"
-        description="Netern Guardian NFT Project."
+        description="Netern NFT Project."
         // canonical="https://www.canonical.ie/"
         twitter={{
               handle: "@Neternft",

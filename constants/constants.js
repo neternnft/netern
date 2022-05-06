@@ -64,7 +64,7 @@ export const backCard = {
   profile:
     "https://lh3.googleusercontent.com/eLb7t8XfGapgsOi3lYh3avqVP4DQiOglT7YVhnaPK1ZH5mECN64oe6iX-yT8LELFDKzFfRDGJXcpaKiX=s130-rw",
   image:
-    "https://lh3.googleusercontent.com/oHJOF_JbzIqnZH09SOV25_TsCEb796yBrgdPUwjKL5VC8XnXZxQw2GG_dIxdbMlWUJYwPTJllqZww02Q=w221-h220-rw",
+    "https://lh3.googleusercontent.com/pw/AM-JKLXJUUihsfnzLtrHr29b0HMDCu-NJVpYUS8vJUKflnOs4JYv12oER2gHBRkit4ILwp4uZpng9I5yaELW4sekdbPbQQtHBB0AGocOvJmPGYepmtfdigkOBc5JDTiHM-NU_vHgIG7gBnOp9SK9iXbHpg0=w1012-h1007-no?authuser=1",
   btnUrl: "https://auth3.network/metamirror/gallery/airose/",
   alt: "Back Card",
   profileAlt: "My Profile 2",

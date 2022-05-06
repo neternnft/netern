@@ -46,7 +46,7 @@ export const btnText2 = "Shop on TBA"
 
 export const topCard = {
   name: "#103",
-  price: "400 $ROSE",
+  price: "TBA",
   btnText: "Buy Now",
   profile:
     "https://lh3.googleusercontent.com/eLb7t8XfGapgsOi3lYh3avqVP4DQiOglT7YVhnaPK1ZH5mECN64oe6iX-yT8LELFDKzFfRDGJXcpaKiX=s130-rw",
@@ -59,7 +59,7 @@ export const topCard = {
 
 export const backCard = {
   name: "#102",
-  price: "400 $ROSE",
+  price: "TBA",
   btnText: "Buy Now",
   profile:
     "https://lh3.googleusercontent.com/eLb7t8XfGapgsOi3lYh3avqVP4DQiOglT7YVhnaPK1ZH5mECN64oe6iX-yT8LELFDKzFfRDGJXcpaKiX=s130-rw",

@@ -82,11 +82,11 @@ export const images = [
     alt: "nft2",
   },
   {
-    url: "https://lh3.googleusercontent.com/pw/AM-JKLW8fy0VuN3j0aB84c85aXtNm8Oantg78SUSgQedjLPW1UToF_GGkFX34_mf67rbOnSxRdgSubY3VPdMkGmmFS8LZZw9tIpXsj7hMwWK03wn5vHJaTMMpT2opjTHpZpdwUTFHsT702cNYpVVK_q3-DQ=w1012-h1007-no?authuser=1",
+    url: "https://lh3.googleusercontent.com/pw/AM-JKLXS4aKzKibajWvd8t3THq5NFRb5kSu-UKzwVU9PHih_9kEeck5ou-muK3G0HaZHOGMfdTHIQXn3upMp7dcZzkqq5D2PCbrjGMMt4YUi1b-X4mrRMvddOfccb_GnLtu7wMNLMYQ84KnfijIeWj6KJRc=w1012-h1007-no?authuser=1",
     alt: "nft3",
   },
   {
-    url: "https://lh3.googleusercontent.com/pw/AM-JKLW8fy0VuN3j0aB84c85aXtNm8Oantg78SUSgQedjLPW1UToF_GGkFX34_mf67rbOnSxRdgSubY3VPdMkGmmFS8LZZw9tIpXsj7hMwWK03wn5vHJaTMMpT2opjTHpZpdwUTFHsT702cNYpVVK_q3-DQ=w1012-h1007-no?authuser=1",
+    url: "https://lh3.googleusercontent.com/pw/AM-JKLVq_DkkRjoh49cK92UQgMtmOmEVF4zpjT6OUH32MAK4ecoZBSmNgOMIH2OEhH2Qq2hcrylptcU-71vyq29zFWyzSEvAVNIsTrqpHmnAhthM7XMEItz425_u0piXK1ij7rM4tgshdy05zGWHUBHfCYo=w1012-h1007-no?authuser=1",
     alt: "nft4",
   },
   {
@@ -179,7 +179,7 @@ export const team = [
     userLink: "https://twitter.com/CryptoNoticiasC",
   },
   {
-    url: "https://lh3.googleusercontent.com/pw/AM-JKLW8fy0VuN3j0aB84c85aXtNm8Oantg78SUSgQedjLPW1UToF_GGkFX34_mf67rbOnSxRdgSubY3VPdMkGmmFS8LZZw9tIpXsj7hMwWK03wn5vHJaTMMpT2opjTHpZpdwUTFHsT702cNYpVVK_q3-DQ=w1012-h1007-no?authuser=1",
+    url: "https://lh3.googleusercontent.com/pw/AM-JKLVq_DkkRjoh49cK92UQgMtmOmEVF4zpjT6OUH32MAK4ecoZBSmNgOMIH2OEhH2Qq2hcrylptcU-71vyq29zFWyzSEvAVNIsTrqpHmnAhthM7XMEItz425_u0piXK1ij7rM4tgshdy05zGWHUBHfCYo=w1012-h1007-no?authuser=1",
     alt: "user4",
     username: "@username",
     userLink: "https://twitter.com/elonmusk",

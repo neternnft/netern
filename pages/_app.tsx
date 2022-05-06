@@ -11,11 +11,11 @@ function MyApp({ Component, pageProps }: AppProps) {
         title="Netern | NFT Project"
         description="Netern Guardian NFT Project."
         // canonical="https://www.canonical.ie/"
-        // twitter={{
-        //   handle: "@handle",
-        //   site: "@site",
-        //   cardType: "summary_large_image",
-        // }}
+        twitter={{
+              handle: "@Neternft",
+              site: "https://twitter.com/Neternft",
+              cardType: "summary_large_image",
+        }}
       />
 
       <div className="min-h-screen bg-gray-800 text-white selection:bg-indigo-500 selection:text-white">

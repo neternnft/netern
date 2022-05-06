@@ -103,10 +103,10 @@ export const features = [
   {
     reversed: true,
     title: "Unique Attributes",
-    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-      minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-      aliquip ex ea commodo consequat.`,
+    description: `Guardians have 50 unique Attributes that are split between female and male figures.
+      25 for female and other 25 for male figures. 
+      Those 50 Attributes are used for 100 nfts, 
+      in other words all nft will be unique because of so many Attributes.`,
     image:
       "https://ouch-cdn2.icons8.com/v6BET7YrOgSq4VCaZKo2L6mVaGxu1oJ0aoH9NzGvKqk/rs:fit:1149:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNTQw/LzVhYTljZWRhLTdm/ZjUtNDM1MC1hNjA0/LWU3OTc1NjZiYTJl/ZC5wbmc.png",
     imageAlt: "Unique Attributes Image",

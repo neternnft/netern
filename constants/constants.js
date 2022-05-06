@@ -38,7 +38,7 @@ export const permissions = "2022 Netern"
 export const heading1 = "Netern"
 export const heading2 = "NFT Project"
 export const description = `
-  Meet a collection of 100+ amazing 
+  Meet a collection of 100+ 
   figures with different attributes and styles!
 `
 export const btnText1 = "Join Discord"

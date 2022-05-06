@@ -18,7 +18,7 @@ export const logoAlt = "nft project logo"
 export const mobileMenuHeading = "Useful Links:"
 
 export const discordUrl = "https://discord.gg/XDJZcHAVsm"
-export const instagramUrl = "#"
+export const instagramUrl = "https://www.instagram.com/netern.nft/"
 export const twitterUrl = "https://twitter.com/Neternft"
 export const openSeaUrl = "https://auth3.network/metamirror/gallery/airose/"
 

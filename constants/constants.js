@@ -173,7 +173,7 @@ export const team = [
     userLink: "https://twitter.com/elonmusk",
   },
   {
-    url: "https://lh3.googleusercontent.com/pw/AM-JKLW8fy0VuN3j0aB84c85aXtNm8Oantg78SUSgQedjLPW1UToF_GGkFX34_mf67rbOnSxRdgSubY3VPdMkGmmFS8LZZw9tIpXsj7hMwWK03wn5vHJaTMMpT2opjTHpZpdwUTFHsT702cNYpVVK_q3-DQ=w1012-h1007-no?authuser=1",
+    url: "https://lh3.googleusercontent.com/pw/AM-JKLXS4aKzKibajWvd8t3THq5NFRb5kSu-UKzwVU9PHih_9kEeck5ou-muK3G0HaZHOGMfdTHIQXn3upMp7dcZzkqq5D2PCbrjGMMt4YUi1b-X4mrRMvddOfccb_GnLtu7wMNLMYQ84KnfijIeWj6KJRc=w1012-h1007-no?authuser=1",
     alt: "user3",
     username: "@CryptoNoticiasC",
     userLink: "https://twitter.com/CryptoNoticiasC",

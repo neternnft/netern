@@ -14,7 +14,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         twitter={{
               handle: "@Neternft",
               site: "https://twitter.com/Neternft",
-              cardType: "summary_large_image",
+              //cardType: "summary_large_image",
         }}
       />
 

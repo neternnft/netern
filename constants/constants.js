@@ -104,8 +104,10 @@ export const features = [
   {
     reversed: false,
     title: "100+ FIgures Collection",
-    description: `After the king created a mysterious orb, people on Earth are constantly being chased.
-      King makes an alliance with 3 other Guardians and together they face the evil enemies of Earth.,
+    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+      minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+      aliquip ex ea commodo consequat.`,
     image:
       "https://ouch-cdn2.icons8.com/CCMXcYfslPpvGqO0olPsDxuYq5zjVyHTbhpIbcfN4bQ/rs:fit:735:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTQ5/LzM3YmUzODE5LTM2/OTEtNDdjNy05YTMz/LWVjMTYwMjA0YTU1/ZS5wbmc.png",
     imageAlt: "100+ FIgures Collection Image",

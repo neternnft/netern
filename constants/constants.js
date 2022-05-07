@@ -185,9 +185,9 @@ export const faq = [
   },
   {
     question: "How much do they Cost?",
-    answer: `Netern is a collection of 100+ amazing figures with
-             different attributes and styles hosted on Emerald Blockchain. 
-             You can buy these figures on Rosart.
+    answer: `Since there are only 100+ mintable Guardians,
+             it will be 450 $ROSE for Whitelist
+             and 500 $ROSE for public minting.
     `,
   },
   {

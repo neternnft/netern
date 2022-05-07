@@ -138,8 +138,6 @@ export const roadmapSteps = [
     description: `
       50% of all income goes to community and project development.
       Raffle for Netern NFT owners limited edition Netern NFTs (5-10).
-      3 NFTs  2 for MODs (elder), 1 NFT for Co leader. The one that has MOD nft gets 1% from all income and MOD role in discord.
-      If you sell your MOD NFT you lose your 1% and MOD role, for Co leader nft same.
     `,
   },
 ]

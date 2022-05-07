@@ -180,21 +180,21 @@ export const faq = [
     question: "What is Netern?",
     answer: `Netern is a collection of 100+ amazing figures with
              different attributes and styles hosted on Emerald Blockchain. 
-             You can buy these figures on MetaMirror.
+             You can buy these figures on Rosart.
     `,
   },
   {
     question: "How much do they Cost?",
     answer: `Netern is a collection of 100+ amazing figures with
              different attributes and styles hosted on Emerald Blockchain. 
-             You can buy these figures on MetaMirror.
+             You can buy these figures on Rosart.
     `,
   },
   {
-    question: "Can I buy an NFT from MetaMirror?",
+    question: "Can I buy an NFT from Rosart?",
     answer: `Netern is a collection of 100+ amazing figures with
              different attributes and styles hosted on Emerald Blockchain. 
-             You can buy these figures on MetaMirror.
+             You can buy these figures on Rosart.
     `,
   },
 ]

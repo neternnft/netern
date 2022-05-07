@@ -168,8 +168,8 @@ export const team = [
   {
     url: "https://lh3.googleusercontent.com/pw/AM-JKLVq_DkkRjoh49cK92UQgMtmOmEVF4zpjT6OUH32MAK4ecoZBSmNgOMIH2OEhH2Qq2hcrylptcU-71vyq29zFWyzSEvAVNIsTrqpHmnAhthM7XMEItz425_u0piXK1ij7rM4tgshdy05zGWHUBHfCYo=w1012-h1007-no?authuser=1",
     alt: "user4",
-    username: "@username",
-    userLink: "https://twitter.com/elonmusk",
+    username: "@Dylan43773446",
+    userLink: "https://twitter.com/Dylan43773446",
   },
 ]
 

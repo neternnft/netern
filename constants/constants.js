@@ -174,13 +174,12 @@ export const faq = [
   {
     question: "What is Netern?",
     answer: `Netern is a collection of 100+ amazing figures with
-             different attributes and styles hosted on Ethereum Mainnet. 
-             You can buy these figures on OpenSea.
+             different attributes and styles hosted on Emerald Mainnet. 
     `,
   },
   {
-    question: "Can I buy an NFT from OpenSea?",
-    answer: `Yes, you can buy these figures on OpenSea.
+    question: "Can I buy an NFT from TBA?",
+    answer: `Yes, you can buy these figures on TBA.
     `,
   },
 ]

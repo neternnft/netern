@@ -20,7 +20,7 @@ export const mobileMenuHeading = "Useful Links:"
 export const discordUrl = "https://discord.gg/XDJZcHAVsm"
 export const instagramUrl = "https://www.instagram.com/netern.nft/"
 export const twitterUrl = "https://twitter.com/Neternft"
-export const openSeaUrl = "https://discord.gg/XDJZcHAVsm"
+export const openSeaUrl = "https://opensea.io/collection/neternft"
 
 // ---NAVBAR---
 export const pages = [
@@ -42,7 +42,7 @@ export const description = `
   figures with different attributes and styles!
 `
 export const btnText1 = "Join Discord"
-export const btnText2 = "Shop on TBA"
+export const btnText2 = "Shop on OpenSea"
 
 export const topCard = {
   name: "#1",

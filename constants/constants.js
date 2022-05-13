@@ -45,7 +45,7 @@ export const btnText1 = "Join Discord"
 export const btnText2 = "Shop on TBA"
 
 export const topCard = {
-  name: "#103",
+  name: "#1",
   price: "TBA",
   btnText: "Buy Now",
   profile:

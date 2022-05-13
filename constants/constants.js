@@ -172,7 +172,7 @@ export const faq = [
     question: "What is Netern?",
     answer: `Netern is a collection of 100+ amazing figures with
              different attributes and styles hosted on Emerald Blockchain. 
-             You can buy these figures on Rosart.
+             You can buy these figures on OpenSea.
     `,
   },
   {
@@ -183,10 +183,10 @@ export const faq = [
     `,
   },
   {
-    question: "Can I buy an NFT from Rosart?",
+    question: "Can I buy an NFT from OpenSea?",
     answer: `Netern is a collection of 100+ amazing figures with
              different attributes and styles hosted on Emerald Blockchain. 
-             You can buy these figures on Rosart.
+             You can buy these figures on OpenSea.
     `,
   },
 ]

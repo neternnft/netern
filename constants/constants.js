@@ -150,6 +150,9 @@ export const roadmapSteps = [
     description: `
       50% of all income goes to project development.
       Raffle for Netern NFT owners limited edition Netern NFTs (5-10).
+      Creating webtoon / manga Stories.
+      Minting 10k supply, every owner gets 1 NFT of those 10k supply.
+      Building a game with 50% of 10k supply minting.
     `,
   },
 ]

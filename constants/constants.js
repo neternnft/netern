@@ -20,7 +20,7 @@ export const mobileMenuHeading = "Useful Links:"
 export const discordUrl = "https://discord.gg/XDJZcHAVsm"
 export const instagramUrl = "https://www.instagram.com/netern.nft/"
 export const twitterUrl = "https://twitter.com/Neternft"
-export const openSeaUrl = "https://opensea.io/collection/neternft"
+export const openSeaUrl = "https://twitter.com/Neternft"
 
 // ---NAVBAR---
 export const pages = [
@@ -42,7 +42,7 @@ export const description = `
   figures with different attributes and styles!
 `
 export const btnText1 = "Join Discord"
-export const btnText2 = "Shop on OpenSea"
+export const btnText2 = "Shop on TBA"
 
 export const topCard = {
   name: "#1",
@@ -52,7 +52,7 @@ export const topCard = {
     "https://lh3.googleusercontent.com/eLb7t8XfGapgsOi3lYh3avqVP4DQiOglT7YVhnaPK1ZH5mECN64oe6iX-yT8LELFDKzFfRDGJXcpaKiX=s130-rw",
   image:
     "https://lh3.googleusercontent.com/EwJIlNrbN5qKBNmkTVZcHyLIoOW5CweClzqB_fZoMR33MHEGHEUgDY6LmbsTumwwsS6yf9QKMj8FrsSnbs3i3BX7uWE6vMeX7yTiftc8F9bCxt-ChnZHAEm2svSxrsJPJ8rO9v8IlsSnHE_89RubSlQrcF86rYgn8KvZLfsPMAQi0luXnYizO0Wduq2sI5v0n90RX2O2gqm0MY44sY9gNNh_p5vLhYdeqLw7n1cgmMuplJC7Uu2jNzThIjo_JA_YL9jTND9FDnH5olyFnAEq-1C1fcoooIDq4C-5KR_G2Kw8gJUJUExvzbyTIir4CJkjCGt-5rAsRg-S0T8mMCX-CNiwKjatmqDWm3UAYBuKomhTXt_YFWTRubxL6JCI2KVlO1X8RZnZVu8KskRP0UCaSZDz86YWDbeW8Uu1mN6aO-sTwq566e0C1OQeaRWEAi2ePTvRaZm1fcVK1xhy7JZld9YjL1xwG0uwBX0LxAO0AicreOLiQvsnyccDIctceKtTCe6AZ648loqASl0hm3AyW1yXPF2HCudiH2M3MEn2N3-Ilk2cIRWrZF4JDY5ufdvG4RgNtbSvEZlyILi-aY1N_UyeT_CFIdfQU7CUTfUTKLnWpjx0IkGfxOXdQAq4a4ZAKhbH1SF2X3w1tGW25IMvSA1uBiR6ViNQF1Jbp2X-0lCSTEzxId-yCoSpOn5whHzGoBns26IzL-2wjLpm7imT1sOK4eGNlhcx8E_nYWT-FGP_t5hDpRKyq2ffeegV24GVWYRyuDAZfW5pdPKnQsaEs-iNWVv_f_DOPUPEvAKT7ERNVbDUpT3zOwkkM2GIZNkMLG5Z1N9O3eGiOM6QuIyHQhbenhytF9NnPFS4VlH_viovuDoi7VtJB_XlcEfjbgedoVIdMaLPnj8asyp39985tc_VWjwS-E8COlJuO9dluzqpJkuF6pyHlbZfnH6B4RdpYI1IzB2sfOAExbv8qRD9eA=s1007-no?authuser=1",
-  btnUrl: "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/13937862551262791875865187985415397765067184998471034258466600995096736301057",
+  btnUrl: "https://twitter.com/Neternft",
   alt: "Top Card",
   profileAlt: "My Profile 1",
 }
@@ -65,7 +65,7 @@ export const backCard = {
     "https://lh3.googleusercontent.com/eLb7t8XfGapgsOi3lYh3avqVP4DQiOglT7YVhnaPK1ZH5mECN64oe6iX-yT8LELFDKzFfRDGJXcpaKiX=s130-rw",
   image:
     "https://lh3.googleusercontent.com/tiOdll8C57CGuoHdIuQdoTOX_aw6Ts_xbjmkKaimrTSUx-38F07vVxLTDPz1uzXAQ8QhQnnMQY_e4p1fCt6a2-aO1IBG2lfsJV3bBj1eYpo8oLiBdFeG3kRtQdRei6kbms3I1yB7CalGDUSZ7k3ksIm0CLVl_ZbQIcJeFPKE4-5mp-2M0yPv9KQDuqU2AkKd15iO1AKhbkvFaDQ6l0Vj5djesOS2V-6vr6_BQyX_8unT2kzai6ywa8_ohCn1fx6czW6uGXtRg32Qy_E8ju_zQt-jW7N_wR6aujX4ogjmBnZAsKJdWt9J5-dq5V55xMg1jOQTTLh5LoCd45GgIXrP1JVc0fngROv3GfBqtsYIgzdm3wqYQkYNgBZPmdM8TvhwSO9wDYiha8V7sGdIB9-4lOZg6Xe0j-eCv6GbBkLZY1Ao1kf9lFrrsSnzv9dbYOua_hXNvorY5euSVvAM1JwNZRZ5fl50TKbMgicgXNNo-uxCjzxcUUsRIJ4qT45Q_fyqmHchprnRDpcF-6tX0StS9fDnfayFxsMacO0kD1SOijB3pheK5W1bNLET_zHd5pf83zUUHm4Z33Bh2eBT_gib450W0NXMTIX3mPWRPnDZP54CFkAcV_BHGJ0jy04FhUqoXMDgUXKggibl8zhbdiuFCl0riTUw1p2oSt9N9RzkxJFX28VnFgP1v4Bwfw8K5yAxgcSaM5uil1cz9RyiECHbBBKYDo8OdY9R1Su4NSJKxdgO14rhcc9F7c3jyw_FzUXbQDF8eJDaVvOcFWCqsLbzcsUlZLq0kotb5WQ-pgD-8ZKl9orUqjVPjVRCGJZVX0X1R5X_rH-gkzjfHYZOzY18e0_YT_THtLvOa2NZ3xVOzstcVg-StVJx-5yDacEcy-1A-FLNBhe90cEkk0EqKGPRFqJPrRfw-wp6jnizHFl3gU13hGs8iJ9_MTlZatKpsvZvjTdpbVBpzUaVhuD_yrMIdw=s1007-no?authuser=1",
-  btnUrl: "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/13937862551262791875865187985415397765067184998471034258466600996196247928833",
+  btnUrl: "https://twitter.com/Neternft",
   alt: "Back Card",
   profileAlt: "My Profile 2",
 }

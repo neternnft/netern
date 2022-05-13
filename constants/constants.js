@@ -106,7 +106,7 @@ export const features = [
     title: "100+ FIgures Collection",
     description: `After the king created a mysterious orb, 
       people on Earth are constantly being chased.
-      The King makes an alliance with 103 other Guardians and together 
+      The King makes an alliance with 100 other Guardians and together 
       they face the evil enemies of Earth and Heaven.`,
     image:
       "https://ouch-cdn2.icons8.com/CCMXcYfslPpvGqO0olPsDxuYq5zjVyHTbhpIbcfN4bQ/rs:fit:735:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTQ5/LzM3YmUzODE5LTM2/OTEtNDdjNy05YTMz/LWVjMTYwMjA0YTU1/ZS5wbmc.png",
@@ -151,7 +151,7 @@ export const roadmapSteps = [
       50% of all income goes to project development.
       Raffle for Netern NFT owners limited edition Netern NFTs (5-10).
       Creating webtoon / manga Stories.
-      Minting 10k supply, every owner gets 1 NFT of those 10k supply.
+      Minting 1k supply, every owner gets 1 NFT of those 10k supply.
       Building a game with 50% of 10k supply minting.
     `,
   },

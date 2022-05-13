@@ -148,7 +148,7 @@ export const roadmapSteps = [
     position: "3",
     title: "All NFTs Sold",
     description: `
-      50% of all income goes to community and project development.
+      50% of all income goes to project development.
       Raffle for Netern NFT owners limited edition Netern NFTs (5-10).
     `,
   },

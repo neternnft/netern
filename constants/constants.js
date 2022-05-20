@@ -25,7 +25,6 @@ export const openSeaUrl = "https://twitter.com/Neternft"
 // ---NAVBAR---
 export const pages = [
   { name: "Gallery", id: "#gallery" },
-  { name: "Game", id: "#game" },
   { name: "Features", id: "#features" },
   { name: "Roadmap", id: "#roadmap" },
   { name: "Team", id: "#team" },

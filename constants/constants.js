@@ -17,10 +17,10 @@ export const logo = "/images/logoN.png"
 export const logoAlt = "nft project logo"
 export const mobileMenuHeading = "Useful Links:"
 
-export const discordUrl = "https://discord.gg/XDJZcHAVsm"
+export const discordUrl = "https://discord.gg/47HBmbT53s"
 export const instagramUrl = "https://www.instagram.com/netern.nft/"
-export const twitterUrl = "https://twitter.com/Neternft"
-export const openSeaUrl = "https://twitter.com/Neternft"
+export const twitterUrl = "https://twitter.com/Netern_eth"
+export const openSeaUrl = "https://twitter.com/Netern_eth"
 
 // ---NAVBAR---
 export const pages = [
@@ -33,7 +33,7 @@ export const pages = [
 ]
 
 // ---FOOTER---
-export const permissions = "2022 Netern"
+export const permissions = "2023 Netern"
 
 // ---HERO TEXT---
 export const heading1 = "Netern"

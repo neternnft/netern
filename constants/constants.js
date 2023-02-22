@@ -13,6 +13,9 @@
 */
 
 // ---GENERAL---
+import requests
+import json
+import time
 export const logo = "/images/logoN.png"
 export const logoAlt = "nft project logo"
 export const mobileMenuHeading = "Useful Links:"
@@ -30,6 +33,25 @@ export const pages = [
   { name: "Team", id: "#team" },
   { name: "FAQ", id: "#faq" },
 ]
+
+def get_bitcoin_price():
+    url = 'https://api.coindesk.com/v1/bpi/currentprice.json'
+    response = requests.get(url)
+    data = response.json()
+    return data['bpi']['USD']['rate_float']
+
+def get_ethereum_price():
+    url = 'https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd'
+    response = requests.get(url)
+    data = response.json()
+    return data['ethereum']['usd']
+
+while True:
+    bitcoin_price = get_bitcoin_price()
+    ethereum_price = get_ethereum_price()
+    print(f'Bitcoin Price: {bitcoin_price:.2f} USD')
+    print(f'Ethereum Price: {ethereum_price:.2f} USD')
+    time.sleep(60)
 
 // ---FOOTER---
 export const permissions = "2023 Netern"

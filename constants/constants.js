@@ -31,6 +31,22 @@ export const pages = [
   { name: "FAQ", id: "#faq" },
 ]
 
+const CRYPTOCURRENCIES = [
+  {
+    id: "ETH",
+    name: "Etherium",
+    symbol: "ETHBUSD",
+    iconCode: 1027,
+    price: 0,
+    prevPrice: 0,
+    highPrice: 0,
+    lowPrice: 0,
+    explorer: "https://etherscan.io",
+  },
+];
+export { CRYPTOCURRENCIES };
+
+
 // ---FOOTER---
 export const permissions = "2023 Netern"
 

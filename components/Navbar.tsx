@@ -19,8 +19,6 @@ import {
   FaTimes,
 } from "react-icons/fa"
 
-import { ETH_PRICE_API } from './constants.js';
-
 // Your code that uses ETH_PRICE_API constant
 
 

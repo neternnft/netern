@@ -8,7 +8,6 @@ import Hero from "../components/Hero"
 import RoadMap from "../components/RoadMap"
 import Team from "../components/Team"
 import { features } from "../constants/constants"
-import { getEthereumPrice } from '../utils/getEthereumPrice';
 
 
 const Home: NextPage = () => {

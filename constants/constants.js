@@ -31,35 +31,6 @@ export const pages = [
   { name: "FAQ", id: "#faq" },
 ]
 
-export default function Home({ nftList }) {
-  const [ethPrice, setEthPrice] = useState(null);
-
-  useEffect(() => {
-    async function fetchEthPrice() {
-      const price = await getEthereumPrice();
-      setEthPrice(price);
-    }
-    fetchEthPrice();
-  }, []);
-
-  return (
-    <div>
-      <Head>
-        <title>Netern NFT</title>
-        <meta name="description" content="Netern NFT" />
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
-      <main>
-        <h1>Netern NFT</h1>
-        <p>Ethereum price: {ethPrice}</p>
-        {/* Rest of the code */}
-      </main>
-    </div>
-  );
-}
-
-
 // ---FOOTER---
 export const permissions = "2023 Netern"
 

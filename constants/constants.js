@@ -35,8 +35,8 @@ export const pages = [
 export const permissions = "2023 Netern"
 
 // ---HERO TEXT---
-export const heading1 = "NETERN"
-export const heading2 = "| NFT Project"
+export const heading1 = "NETERN |"
+export const heading2 = "NFT Project"
 export const description = `
   Meet a collection of 100 
   Guardians with different attributes and styles!

@@ -104,7 +104,7 @@ export const images = [
 export const features = [
   {
     reversed: false,
-    title: "100+ FIgures Collection",
+    title: "100 FIgures Collection",
     description: `After the king created a mysterious orb, 
       people on Earth are constantly being chased.
       The King makes an alliance with 100 other Guardians and together 
@@ -149,11 +149,7 @@ export const roadmapSteps = [
     position: "3",
     title: "All NFTs Sold",
     description: `
-      50% of all income goes to project development.
-      Raffle for Netern NFT owners limited edition Netern NFTs (5-10).
-      Creating webtoon / manga Stories.
-      Minting 1k supply, every owner gets 1 NFT of those 10k supply.
-      Building a game with 50% of 10k supply minting.
+      ...
     `,
   },
 ]

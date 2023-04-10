@@ -58,13 +58,13 @@ export const topCard = {
 }
 
 export const backCard = {
-  name: "#2",
+  name: "Guardian",
   price: "TBA",
   btnText: "Buy Now",
   profile:
     "https://lh3.googleusercontent.com/eLb7t8XfGapgsOi3lYh3avqVP4DQiOglT7YVhnaPK1ZH5mECN64oe6iX-yT8LELFDKzFfRDGJXcpaKiX=s130-rw",
   image:
-    "https://lh3.googleusercontent.com/tiOdll8C57CGuoHdIuQdoTOX_aw6Ts_xbjmkKaimrTSUx-38F07vVxLTDPz1uzXAQ8QhQnnMQY_e4p1fCt6a2-aO1IBG2lfsJV3bBj1eYpo8oLiBdFeG3kRtQdRei6kbms3I1yB7CalGDUSZ7k3ksIm0CLVl_ZbQIcJeFPKE4-5mp-2M0yPv9KQDuqU2AkKd15iO1AKhbkvFaDQ6l0Vj5djesOS2V-6vr6_BQyX_8unT2kzai6ywa8_ohCn1fx6czW6uGXtRg32Qy_E8ju_zQt-jW7N_wR6aujX4ogjmBnZAsKJdWt9J5-dq5V55xMg1jOQTTLh5LoCd45GgIXrP1JVc0fngROv3GfBqtsYIgzdm3wqYQkYNgBZPmdM8TvhwSO9wDYiha8V7sGdIB9-4lOZg6Xe0j-eCv6GbBkLZY1Ao1kf9lFrrsSnzv9dbYOua_hXNvorY5euSVvAM1JwNZRZ5fl50TKbMgicgXNNo-uxCjzxcUUsRIJ4qT45Q_fyqmHchprnRDpcF-6tX0StS9fDnfayFxsMacO0kD1SOijB3pheK5W1bNLET_zHd5pf83zUUHm4Z33Bh2eBT_gib450W0NXMTIX3mPWRPnDZP54CFkAcV_BHGJ0jy04FhUqoXMDgUXKggibl8zhbdiuFCl0riTUw1p2oSt9N9RzkxJFX28VnFgP1v4Bwfw8K5yAxgcSaM5uil1cz9RyiECHbBBKYDo8OdY9R1Su4NSJKxdgO14rhcc9F7c3jyw_FzUXbQDF8eJDaVvOcFWCqsLbzcsUlZLq0kotb5WQ-pgD-8ZKl9orUqjVPjVRCGJZVX0X1R5X_rH-gkzjfHYZOzY18e0_YT_THtLvOa2NZ3xVOzstcVg-StVJx-5yDacEcy-1A-FLNBhe90cEkk0EqKGPRFqJPrRfw-wp6jnizHFl3gU13hGs8iJ9_MTlZatKpsvZvjTdpbVBpzUaVhuD_yrMIdw=s1007-no?authuser=1",
+    "https://lh3.googleusercontent.com/pw/AMWts8AdnyMJTAfxFv7V6TiYyFWYvS7Iu-djxCWWN9U05ZON-x8qZVslDe3AVXYtQETMI1AZQaVykqyC3tmZe7roIs8H1OEF4cMRS6NQPgGOz6pHw4Re4BDzk8E4YmEWHxtmDBYTTFfz1IHHE4ZFrqGL0CVi=w1469-h1469-s-no?authuser=1",
   btnUrl: "https://discord.gg/47HBmbT53s",
   alt: "Back Card",
   profileAlt: "My Profile 2",

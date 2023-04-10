@@ -18,9 +18,9 @@ export const logoAlt = "nft project logo"
 export const mobileMenuHeading = "Useful Links:"
 
 export const discordUrl = "https://discord.gg/47HBmbT53s"
-export const instagramUrl = "https://www.instagram.com/netern.nft/"
-export const twitterUrl = "https://twitter.com/Netern_eth"
-export const openSeaUrl = "https://discord.gg/47HBmbT53s"
+export const instagramUrl = "https://www.instagram.com/netern_eth/"
+export const twitterUrl = "https://twitter.com/G1Council"
+export const openSeaUrl = "https://opensea.io/collection/guardiancouncil"
 
 // ---NAVBAR---
 export const pages = [
@@ -35,11 +35,11 @@ export const pages = [
 export const permissions = "2023 Netern"
 
 // ---HERO TEXT---
-export const heading1 = "Netern"
-export const heading2 = "NFT Project"
+export const heading1 = "Guardian"
+export const heading2 = "Council"
 export const description = `
-  Meet a collection of 100+ 
-  figures with different attributes and styles!
+  Meet a collection of 100 
+  Guardians with different attributes and styles!
 `
 export const btnText1 = "Join Discord"
 export const btnText2 = "Shop on TBA"
@@ -161,7 +161,7 @@ export const team = [
     url: "https://lh3.googleusercontent.com/eT_k97dAY_Y5vBfM2O5aMjra_MSIqUEC378UPVhGrX5G4NR1I84V6gJp7CWiwraRMnk6dv4rGND7SHul4eoDp6u8T7CNaFCBG9jfK0CyhQ4sP7sHGDUhE3a4HVvoKVL3sHxVCyN66mR2arqZZmzkLW8EC8UUEeoLG3BqlzRLdGzTJc7Brk1bjk_bjC4WvONhbkFRLoRWErJB51jKFBzxf9tY1tRWIKyx6aNp_YE7louYW5Vp8T-iVtcEnmKXz1akBo4SAjYZ0ejYuwoDPpNc4eYgbJgPebVRjPs5VxAmFE8xiYCXgKRJeO6Np9bBtzrVi2DJE5PlzGnYnqbSbDQb9-aZ2TXf90PpJt5e8jKGAMXsFknUMp6yA3PzjWJzD0jeQnegO2UZCGDmcWetKhCxbXUzlmjzXtKietYygSbjuSm54iPK52uV-Qj8glq6CyddGSspjqRJM5zLnC5n7GGcCDwPwUH5Ak3i0yMkE2a-eQJoG5i6BCJY5w5xeBK8KrSktVa2qMBL0Aa_mjxVyKCZBUanLi1Qq142Xsy1iJTEODcaMPJNjbDiq5eZ4vk0jXbQFZcAKd3srs3D3Gl3G1EY6nJprls33GOzm1i6z-rhZekUz4MRPaa9ltHOrYY5nKdaUjkUzXUPIGf-K9VTISYuehynQsgPfACLKuuGa_b8BQPR0WFs3lfRHze6Dx_Mqra9L9mLEBIVwSY_F7p2FVlN0DdadreaLCsPaJoLc-jznPHBb3ZqNGs2rcTMcj9RkbgIhKZyuJbp26x-VanC8hYiECVjEBhVoO1ipNikhLkH2m7KO5Stbh5EllpGuMHDORuyBQrmAO8CzOOZx5Z5JE54QBR6JIuPZ9LAQDWsjPT5O0Srqc1F7M5MrkUuNv7BW0WS6RDkAKjhkPbqsBFs_smi1xl3AE654UIuyR1-r0sWOdRcz9-IW2GSt80ytiezvvevuGTDkWHXNLPTZWIenRV9=s1007-no?authuser=1",
     alt: "user1",
     username: "@Neternft",
-    userLink: "https://twitter.com/Neternft",
+    userLink: "https://twitter.com/Netern_eth",
   },
 ]
 

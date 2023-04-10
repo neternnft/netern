@@ -145,24 +145,23 @@ export const roadmapHeading = "Roadmap"
 export const roadmapSteps = [
   {
     position: "1",
-    title: "Giveaways and events",
+    title: "Sell out",
     description: `
-      Participation in giveaways and events
-      Growing Netern community and opportunity to have a say in the development of the project
-      Distribution of roles and rewards for loyalty
+    Once the Guardian Council sells out, we'll update our roadmap with new goals and milestones.
+    From there, it'll be up to our holders to vote on the path we take next.
+    We're excited to see where the community takes us!
     `,
   },
   {
     position: "2",
-    title: " Creation of website",
+    title: "Will be decided by Holders",
     description: `
-      Mint : 100 Netern Guardians NFTs are going to be minted on the Oasis blockchain.
-      You have full intellectual property of your Netern Guardian NFTs, so you can use it as a PFP, or for any other purpose.
+      ...
     `,
   },
   {
     position: "3",
-    title: "All NFTs Sold",
+    title: "Will be decided by Holders",
     description: `
       ...
     `,

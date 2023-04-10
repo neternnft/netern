@@ -65,7 +65,7 @@ export const backCard = {
     "https://lh3.googleusercontent.com/eLb7t8XfGapgsOi3lYh3avqVP4DQiOglT7YVhnaPK1ZH5mECN64oe6iX-yT8LELFDKzFfRDGJXcpaKiX=s130-rw",
   image:
     "https://lh3.googleusercontent.com/pw/AMWts8AdnyMJTAfxFv7V6TiYyFWYvS7Iu-djxCWWN9U05ZON-x8qZVslDe3AVXYtQETMI1AZQaVykqyC3tmZe7roIs8H1OEF4cMRS6NQPgGOz6pHw4Re4BDzk8E4YmEWHxtmDBYTTFfz1IHHE4ZFrqGL0CVi=w1469-h1469-s-no?authuser=1",
-  btnUrl: "https://discord.gg/47HBmbT53s",
+  btnUrl: "https://opensea.io/assets/matic/0x14d47de4890bafbc7ae1269953b52a4fd2b16e57/5",
   alt: "Back Card",
   profileAlt: "My Profile 2",
 }

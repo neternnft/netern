@@ -169,8 +169,8 @@ export const team = [
 export const faqHeading = "Frequently Asked Questions"
 export const faq = [
   {
-    question: "What is Netern?",
-    answer: `Netern is a collection of 100 amazing Guardians with
+    question: "What is Guardian Council?",
+    answer: `Guardian Council is a collection of 100 amazing Guardians with
              different attributes and styles hosted on Polygon. 
     `,
   },

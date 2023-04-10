@@ -175,7 +175,7 @@ export const faq = [
     `,
   },
   {
-    question: "Can I buy an NFT from TBA?",
+    question: "Can I buy an NFT from OpenSea?",
     answer: `Yes, you can buy these Guardians on Opensea.
     `,
   },

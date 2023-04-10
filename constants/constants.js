@@ -36,7 +36,7 @@ export const permissions = "2023 Netern"
 
 // ---HERO TEXT---
 export const heading1 = "GUARDIAN"
-export const heading2 = "Council"
+export const heading2 = "| Council"
 export const description = `
   Meet a collection of 100 
   Guardians with different attributes and styles!

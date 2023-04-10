@@ -35,7 +35,7 @@ export const pages = [
 export const permissions = "2023 Netern"
 
 // ---HERO TEXT---
-export const heading1 = "Guardian"
+export const heading1 = "GUARDIAN"
 export const heading2 = "Council"
 export const description = `
   Meet a collection of 100 

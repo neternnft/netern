@@ -45,7 +45,7 @@ export const btnText1 = "Join Discord"
 export const btnText2 = "Shop OpenSea"
 
 export const topCard = {
-  name: "Guardian Council",
+  name: "Guardian",
   price: "KING",
   btnText: "Buy Now",
   profile:

@@ -59,7 +59,7 @@ export const topCard = {
 
 export const backCard = {
   name: "Guardian",
-  price: "TBA",
+  price: "7",
   btnText: "Buy Now",
   profile:
     "https://lh3.googleusercontent.com/eLb7t8XfGapgsOi3lYh3avqVP4DQiOglT7YVhnaPK1ZH5mECN64oe6iX-yT8LELFDKzFfRDGJXcpaKiX=s130-rw",

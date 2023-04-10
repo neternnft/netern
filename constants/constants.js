@@ -45,14 +45,14 @@ export const btnText1 = "Join Discord"
 export const btnText2 = "Shop OpenSea"
 
 export const topCard = {
-  name: "#1",
+  name: "Guardian Council KING",
   price: "TBA",
   btnText: "Buy Now",
   profile:
     "https://lh3.googleusercontent.com/eLb7t8XfGapgsOi3lYh3avqVP4DQiOglT7YVhnaPK1ZH5mECN64oe6iX-yT8LELFDKzFfRDGJXcpaKiX=s130-rw",
   image:
     "https://lh3.googleusercontent.com/EwJIlNrbN5qKBNmkTVZcHyLIoOW5CweClzqB_fZoMR33MHEGHEUgDY6LmbsTumwwsS6yf9QKMj8FrsSnbs3i3BX7uWE6vMeX7yTiftc8F9bCxt-ChnZHAEm2svSxrsJPJ8rO9v8IlsSnHE_89RubSlQrcF86rYgn8KvZLfsPMAQi0luXnYizO0Wduq2sI5v0n90RX2O2gqm0MY44sY9gNNh_p5vLhYdeqLw7n1cgmMuplJC7Uu2jNzThIjo_JA_YL9jTND9FDnH5olyFnAEq-1C1fcoooIDq4C-5KR_G2Kw8gJUJUExvzbyTIir4CJkjCGt-5rAsRg-S0T8mMCX-CNiwKjatmqDWm3UAYBuKomhTXt_YFWTRubxL6JCI2KVlO1X8RZnZVu8KskRP0UCaSZDz86YWDbeW8Uu1mN6aO-sTwq566e0C1OQeaRWEAi2ePTvRaZm1fcVK1xhy7JZld9YjL1xwG0uwBX0LxAO0AicreOLiQvsnyccDIctceKtTCe6AZ648loqASl0hm3AyW1yXPF2HCudiH2M3MEn2N3-Ilk2cIRWrZF4JDY5ufdvG4RgNtbSvEZlyILi-aY1N_UyeT_CFIdfQU7CUTfUTKLnWpjx0IkGfxOXdQAq4a4ZAKhbH1SF2X3w1tGW25IMvSA1uBiR6ViNQF1Jbp2X-0lCSTEzxId-yCoSpOn5whHzGoBns26IzL-2wjLpm7imT1sOK4eGNlhcx8E_nYWT-FGP_t5hDpRKyq2ffeegV24GVWYRyuDAZfW5pdPKnQsaEs-iNWVv_f_DOPUPEvAKT7ERNVbDUpT3zOwkkM2GIZNkMLG5Z1N9O3eGiOM6QuIyHQhbenhytF9NnPFS4VlH_viovuDoi7VtJB_XlcEfjbgedoVIdMaLPnj8asyp39985tc_VWjwS-E8COlJuO9dluzqpJkuF6pyHlbZfnH6B4RdpYI1IzB2sfOAExbv8qRD9eA=s1007-no?authuser=1",
-  btnUrl: "https://discord.gg/47HBmbT53s",
+  btnUrl: "https://opensea.io/assets/matic/0x14d47de4890bafbc7ae1269953b52a4fd2b16e57/96",
   alt: "Top Card",
   profileAlt: "My Profile 1",
 }

@@ -19,6 +19,9 @@ import {
   FaTimes,
 } from "react-icons/fa"
 
+// Your code that uses ETH_PRICE_API constant
+
+
 interface MediaProps {
   icon: React.ReactNode
   link: string

@@ -119,11 +119,13 @@ export const images = [
 export const features = [
   {
     reversed: false,
-    title: "100 FIgures Collection",
-    description: `After the king created a mysterious orb, 
-      people on Earth are constantly being chased.
-      The King makes an alliance with 100 other Guardians and together 
-      they face the evil enemies of Earth and Heaven.`,
+    title: "100 Guardian Councils",
+    description: `This NFT offers voting rights, 
+      empowering holders to participate in project decisions. 
+      It creates community involvement and rarity for investment opportunities,
+      while ensuring security and exclusivity.
+      It represents a new way of engaging with projects,
+      where all voices are heard and valued.`,
     image:
       "https://ouch-cdn2.icons8.com/CCMXcYfslPpvGqO0olPsDxuYq5zjVyHTbhpIbcfN4bQ/rs:fit:735:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTQ5/LzM3YmUzODE5LTM2/OTEtNDdjNy05YTMz/LWVjMTYwMjA0YTU1/ZS5wbmc.png",
     imageAlt: "100+ FIgures Collection Image",

@@ -118,7 +118,7 @@ export const features = [
     reversed: true,
     title: "Unique Attributes",
     description: `Guardians have 50 unique Attributes that are split between female and male figures.
-      25 for female and other 25 for male Guardians. 
+      25 for female and other 25 for male. 
       Those 50 Attributes are used for 100 nfts.`,
     image:
       "https://ouch-cdn2.icons8.com/v6BET7YrOgSq4VCaZKo2L6mVaGxu1oJ0aoH9NzGvKqk/rs:fit:1149:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNTQw/LzVhYTljZWRhLTdm/ZjUtNDM1MC1hNjA0/LWU3OTc1NjZiYTJl/ZC5wbmc.png",
@@ -170,7 +170,7 @@ export const faqHeading = "Frequently Asked Questions"
 export const faq = [
   {
     question: "What is Guardian Council?",
-    answer: `Guardian Council is a collection of 100 amazing Guardians with
+    answer: `Guardian Council is a collection of 100 amazing characters with
              different attributes and styles hosted on Polygon. 
     `,
   },

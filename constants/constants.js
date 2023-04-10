@@ -154,14 +154,14 @@ export const roadmapSteps = [
   },
   {
     position: "2",
-    title: "Will be decided by Holders",
+    title: "TBA",
     description: `
       ...
     `,
   },
   {
     position: "3",
-    title: "Will be decided by Holders",
+    title: "TBA",
     description: `
       ...
     `,

@@ -46,7 +46,7 @@ export const btnText2 = "Shop OpenSea"
 
 export const topCard = {
   name: "Guardian",
-  price: "KING",
+  price: "$NTN",
   btnText: "Buy Now",
   profile:
     "https://lh3.googleusercontent.com/eLb7t8XfGapgsOi3lYh3avqVP4DQiOglT7YVhnaPK1ZH5mECN64oe6iX-yT8LELFDKzFfRDGJXcpaKiX=s130-rw",

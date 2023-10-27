@@ -43,7 +43,7 @@ export const description = `
   figures with different attributes and styles!
 `
 export const btnText1 = "Join Discord"
-export const btnText2 = "Shop on TBA"
+export const btnText2 = "Swap on Raydium"
 
 export const topCard = {
   name: "#1",

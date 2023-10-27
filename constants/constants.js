@@ -37,7 +37,7 @@ export const permissions = "2022 Netern"
 
 // ---HERO TEXT---
 export const heading1 = "Netern"
-export const heading2 = "NFT Project"
+export const heading2 = "$NTN"
 export const description = `
   Meet a collection of 100+ 
   figures with different attributes and styles!

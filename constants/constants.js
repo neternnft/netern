@@ -105,10 +105,7 @@ export const features = [
   {
     reversed: false,
     title: "$NTN: Token of Community Strengtn",
-    description: `After the king created a mysterious orb, 
-      people on Earth are constantly being chased.
-      The King makes an alliance with 100 other Guardians and together 
-      they face the evil enemies of Earth and Heaven.`,
+    description: `$NTN is a community-based token that fosters unity and collaboration among its members. Together, they work towards shared goals and values, building a stronger and more connected community.`,
     image:
       "https://ouch-cdn2.icons8.com/CCMXcYfslPpvGqO0olPsDxuYq5zjVyHTbhpIbcfN4bQ/rs:fit:735:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTQ5/LzM3YmUzODE5LTM2/OTEtNDdjNy05YTMz/LWVjMTYwMjA0YTU1/ZS5wbmc.png",
     imageAlt: "100+ FIgures Collection Image",

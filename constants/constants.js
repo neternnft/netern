@@ -37,14 +37,14 @@ export const permissions = "2023 Netern"
 // ---HERO TEXT---
 export const heading1 = "Netern"
 export const heading2 = "$NTN"
-export const description = `Fueling community strength
-through unity and shared values.`
+export const description = `Fueling community strength through unity and shared values.`
 export const btnText1 = "Join Discord"
 export const btnText2 = "Swap on Raydium"
 
 export const topCard = {
   name: "$NTN",
-  btnText: "Swap Now",
+  price: "TBA",
+  btnText: "Buy Now",
   profile:
     "https://lh3.googleusercontent.com/eLb7t8XfGapgsOi3lYh3avqVP4DQiOglT7YVhnaPK1ZH5mECN64oe6iX-yT8LELFDKzFfRDGJXcpaKiX=s130-rw",
   image:

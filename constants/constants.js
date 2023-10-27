@@ -48,7 +48,7 @@ export const topCard = {
   profile:
     "https://lh3.googleusercontent.com/eLb7t8XfGapgsOi3lYh3avqVP4DQiOglT7YVhnaPK1ZH5mECN64oe6iX-yT8LELFDKzFfRDGJXcpaKiX=s130-rw",
   image:
-    "https://lh3.googleusercontent.com/pw/ADCreHdjjbXaVDtxdfpFW4koeGYpv-D0xhjpmAZzTx7ExiO29TqRsnn9K8QGK_7BvzpJN2iKh2a_4pWR5aKsdSUb2_xBtNP-qsfjYHq4uJgSJgeadYFSNf_leZNWyFwt6hQvO0lP6ehyPLrIC5B97xTApFA=w130-h130-s-no-gm?authuser=2",
+    "https://lh3.googleusercontent.com/pw/ADCreHdZaOMaqPMnZp1-69OmfVdNygufjBUbXxHM0mBgakOyR4xReDy8v4tSrmJfTmo5IQd2xaUBud_hT31Ss3jxQfARTs_24jJ2dJPJP_UCOrLG-wH_ILSX0QNKbuCZMhOAIN0heUAmnX--eG-7L3AmfZTs=w955-h955-s-no-gm?authuser=2",
   btnUrl: "https://twitter.com/Neternft",
   alt: "Top Card",
   profileAlt: "My Profile 1",

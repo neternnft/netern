@@ -32,15 +32,12 @@ export const pages = [
 ]
 
 // ---FOOTER---
-export const permissions = "2022 Netern"
+export const permissions = "2023 Netern"
 
 // ---HERO TEXT---
 export const heading1 = "Netern"
 export const heading2 = "$NTN"
-export const description = `
-  Meet a collection of 100+ 
-  figures with different attributes and styles!
-`
+export const description = `Fueling community strength through unity and shared values.`
 export const btnText1 = "Join Discord"
 export const btnText2 = "Swap on Raydium"
 

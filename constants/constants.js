@@ -104,7 +104,7 @@ export const images = [
 export const features = [
   {
     reversed: false,
-    title: "100+ FIgures Collection",
+    title: "$NTN: Token of Community Strengtn",
     description: `After the king created a mysterious orb, 
       people on Earth are constantly being chased.
       The King makes an alliance with 100 other Guardians and together 

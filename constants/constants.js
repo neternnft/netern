@@ -44,7 +44,7 @@ export const btnText2 = "Swap on Raydium"
 export const topCard = {
   name: "$NTN",
   price: "",
-  btnText: "Swap Now",
+  btnText: "Buy now",
   profile:
     "https://lh3.googleusercontent.com/eLb7t8XfGapgsOi3lYh3avqVP4DQiOglT7YVhnaPK1ZH5mECN64oe6iX-yT8LELFDKzFfRDGJXcpaKiX=s130-rw",
   image:

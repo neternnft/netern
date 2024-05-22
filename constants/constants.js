@@ -32,7 +32,7 @@ export const pages = [
 ]
 
 // ---FOOTER---
-export const permissions = "2023 Netern"
+export const permissions = "2024 NETERN"
 
 // ---HERO TEXT---
 export const heading1 = "Netern"

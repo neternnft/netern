@@ -35,8 +35,8 @@ export const pages = [
 export const permissions = "2024 NETERN"
 
 // ---HERO TEXT---
-export const heading1 = "Netern"
-export const heading2 = "$NTN"
+export const heading1 = "$MIAO"
+export const heading2 = "On $SOL"
 export const description = `Fueling community strength through unity and shared values.`
 export const btnText1 = "Join Discord"
 export const btnText2 = "Swap on Raydium"
